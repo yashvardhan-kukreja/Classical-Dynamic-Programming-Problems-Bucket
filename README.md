@@ -36,7 +36,7 @@ Language (Say, Python)
 ### Follow the given steps:
 
 - Fork this repo
-- Create a branch in your forked repo with the name <user-name>/<feature-name>. For example, yashvardhan-kukreja/rod-cutting-problem
+- Create a branch in your forked repo with the name "user-name"/"feature-name" . For example, yashvardhan-kukreja/rod-cutting-problem
 - Commit your changes to that branch in your forked repo
 - Make a Pull Request from that branch to the master branch of this main repo.
 
